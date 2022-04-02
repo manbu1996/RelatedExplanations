@@ -14,7 +14,7 @@ import java.lang.annotation.Target;
 
 /**
  * Target 作用的目标
- * ElementType.TYPE 对应的是代表 类
+ * ElementType  .TYPE 对应的是代表 类
  * 线程安全的
  * Retention 注解存在的范围
  * RetentionPolicy.runtime  代表注解会在class 字节码文件存在
